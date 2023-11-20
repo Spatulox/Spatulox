@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spatulox&label=Profile%20views&color=0e75b6&style=flat" alt="spatulox" /> </p>
 
+- 🔭 I’m currently working on **some personnal project**
+
+- 🌱 I’m currently learning at **ESGI, France (2nd years of college)**
+
+- 👨‍💻 All of my public projects are available at [https://github.com/Spatulox?tab=repositories](https://github.com/Spatulox?tab=repositories)
+
+- ⚡ Fun fact **Mmmmmh....**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
