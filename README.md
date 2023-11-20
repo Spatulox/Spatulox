@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spatulox</h1>
-<h3 align="center">A passionate beginner developer</h3>
+<h3 align="center">A beginner developer with a lot of Headache because of projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spatulox&label=Profile%20views&color=0e75b6&style=flat" alt="spatulox" /> </p>
 
