@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my public projects are available at [Spatulox](https://github.com/Spatulox?tab=repositories)
 
-- ⚡ Fun fact **Mmmmmh....**
+- ⚡ Fun fact **Mmmmmh...., I don't know**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
