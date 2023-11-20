@@ -7,10 +7,11 @@
 
 - 🌱 I’m currently learning at **ESGI, France (2nd years of college)**
 
-- 👨‍💻 All of my public projects are available at [https://github.com/Spatulox?tab=repositories](https://github.com/Spatulox?tab=repositories)
+- 👨‍💻 All of my public projects are available at [Spatulox](https://github.com/Spatulox?tab=repositories)
 
 - ⚡ Fun fact **Mmmmmh....**
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
