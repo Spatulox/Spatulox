@@ -28,3 +28,12 @@
 <hr>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Spatulox&:how_icons=true)
+
+<hr>
+<h3 aligne="center">Ressources</h3>
+
+[Animated typing](https://github.com/denvercoder1/readme-typing-svg)  
+
+[Profile view counter](https://github.com/antonkomarev/github-profile-views-counter)  
+
+[GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
