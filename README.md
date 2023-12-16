@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spatulox</h1>
 <h3 align="center">A beginner developer with a lot of Headache because of projects</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39B23A&random=true&width=806&separator=%3C&lines=Hi%2C+I'm+Spatulox%3Cthrow+new+Exception(%22Spatulox+coding%22);%3Cthrow+new+Exception(%22Spatulox+sleeping%22);%3Cthrow+new+Exception(%22Spatulox+eating%22);%3Ctypedef+struct+%7Bchar*+Wake_up;+char*+Eating;+char*+Coding;%7D+day;%3Cgit+branch+-b+feature%2Fwalking%3Cgit+checkout+bed+%26%26+git+merge+Spatulox%3Ccd+.%2Fusr%2Fbin%2FSpatulox%3Clinux%40Spatulox%3A~%24+cat+config.txt%3CCREATE+DATABASE+DAILY_DAY%3Cconsole.log('Info+%3A+Spatulox+coding...');%3CCREATE+TABLE+DAYS%3CINSERT+INTO+DAY-1+(day%2C+desc)+VALUES+(01%2C+sleep);%3Cprintf(%22Spatulox+walking%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39B23A&random=true&width=806&separator=%3C&lines=Hi%2C+I'm+Spatulox%3Cthrow+new+Exception(%22Spatulox+coding%22);%3Cthrow+new+Exception(%22Spatulox+sleeping%22);%3Cthrow+new+Exception(%22Spatulox+eating%22);%3Ctypedef+struct+%7Bchar*+Wake_up;+char*+Eating;+char*+Coding;%7D+day;%3Cgit+branch+-b+feature%2Fwalking%3Cgit+checkout+bed+%26%26+git+merge+Spatulox%3Ccd+.%2Fusr%2Fbin%2FSpatulox%3Clinux%40Spatulox%3A~%24+cat+config.txt%3CCREATE+DATABASE+DAILY_ROUTINE%3Cconsole.log('Info+%3A+Spatulox+coding...');%3CCREATE+TABLE+DAYS%3CINSERT+INTO+DAY-1+(day%2C+desc)+VALUES+(01%2C+sleep);%3Cprintf(%22Spatulox+walking%22);)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spatulox&label=Profile%20views&color=0e75b6&style=flat" alt="spatulox" /> </p>
 
