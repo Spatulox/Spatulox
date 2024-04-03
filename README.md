@@ -28,7 +28,10 @@
 <hr>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Spatulox&:how_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Spatulox&theme=dark)
 
+<hr>
+ <img title="overview" src="https://raw.githubusercontent.com/Spatulox/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 <hr>
 <h3 aligne="center">Ressources</h3>
 
