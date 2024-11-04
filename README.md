@@ -31,11 +31,10 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Spatulox&theme=dark)
 
 # Projects
-## MyGes Projects
+## MyGes Projects (personnal projects)
 > - [MyGes Client | GO - Wails](https://github.com/Spatulox/MyGesClient) (Unofficial)
 > - [reDesignMyges | JS](https://github.com/Spatulox/re-Design-myGes) Browser extension to visually boost myges website
 > - [MyGesApis | Multiple languages](https://github.com/Spatulox/MyGesApis) Collection of file to access MyGes API with differrent languages
-
 
 ## School Project
 > - [Annual Project | PHP - HTML/CSS/JS](https://github.com/Spatulox/PA_AuTempsDonne) (2nd Year)
@@ -44,10 +43,10 @@
 > - [Reservation | GO](https://github.com/Spatulox/Projet_GO_Reservation)
 > - [Interpretor | C](https://github.com/Spatulox/InterpreteurC)
 
-## Personnal Librairie
+## Personnal Librairies
 > - [ShlagUI | CSS](https://github.com/Spatulox/ShlagUI) (CSS Framework)
-> - [RequestApis | Multiple languages](https://github.com/Spatulox/RequestApis)
-> - [RequestDB | Multiple languages](https://github.com/Spatulox/RequestDB)
+> - [GO Librairy](https://github.com/Spatulox/personnal-go)
+> - [PHP Librairy](https://github.com/Spatulox/personnal-php)
 
 <hr>
 <h3 aligne="center">Ressources</h3>
