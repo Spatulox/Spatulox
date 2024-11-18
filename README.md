@@ -39,7 +39,7 @@
 ## School Project
 > - [Annual Project | PHP - HTML/CSS/JS](https://github.com/Spatulox/PA_AuTempsDonne) (2nd Year)
 > - [TombChronicle | UNITY - C#](https://github.com/Spatulox/TombChronicle) Video Game (platformer)
-> - [Secret-Agent | C](https://github.com/Spatulox/Secret-Agent)
+> - [Secret-Agent | C](https://github.com/Spatulox/Secret-Agent) Video Game
 > - [Reservation | GO](https://github.com/Spatulox/Projet_GO_Reservation)
 > - [Interpretor | C](https://github.com/Spatulox/InterpreteurC)
 
