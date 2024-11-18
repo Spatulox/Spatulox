@@ -32,7 +32,7 @@
 
 # Projects
 ## MyGes Projects (personnal projects)
-> - [MyGes Client | GO - Wails](https://github.com/Spatulox/MyGesClient) (Unofficial)
+> - [MyGes Client | GO - Wails](https://github.com/Spatulox/MyGesClient) (Unofficial, in beta)
 > - [reDesignMyges | JS](https://github.com/Spatulox/re-Design-myGes) Browser extension to visually boost myges website
 > - [MyGesApis | Multiple languages](https://github.com/Spatulox/MyGesApis) Collection of file to access MyGes API in differrent languages
 
