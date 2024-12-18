@@ -31,10 +31,11 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Spatulox&theme=dark)
 
 # Projects
-## MyGes Projects (personnal projects)
+## Personnal Projects
 > - [MyGes Client | GO - Wails](https://github.com/Spatulox/MyGesClient) (Unofficial, in beta)
 > - [reDesignMyges | JS](https://github.com/Spatulox/re-Design-myGes) Browser extension to visually boost myges website
 > - [MyGesApis | Multiple languages](https://github.com/Spatulox/MyGesApis) Collection of file to access MyGes API in differrent languages
+> - [MuteAds](https://github.com/Spatulox/MuteAds) Web extension to mute tabs when it detect Ads
 
 ## School Project
 > - [Annual Project | PHP - HTML/CSS/JS](https://github.com/Spatulox/PA_AuTempsDonne) (2nd Year)
