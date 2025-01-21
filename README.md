@@ -52,10 +52,11 @@
 
 <hr>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spatulox&show_icons=true&locale=en&layout=compact" alt="Spatulox" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Spatulox&:how_icons=true" alt="Spatulox">
-  <img align="right" src="https://streak-stats.demolab.com/?user=Spatulox" alt="Spatulox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spatulox&show_icons=true&locale=en&layout=compact" alt="Spatulox" />
 </p>
+<p width="100%" ><img  align="center" src="https://streak-stats.demolab.com/?user=Spatulox&theme=dark" alt="Spatulox"></p>
+
 
 # Projects
 ## Personnal Projects
