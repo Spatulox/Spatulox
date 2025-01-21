@@ -51,7 +51,7 @@
 </p>
 
 <hr>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spatulox&show_icons=true&locale=en&layout=compact" alt="Spatulox" />
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Spatulox&:how_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Spatulox&theme=dark)
 
