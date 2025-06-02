@@ -66,6 +66,7 @@
 > - [MuteAds](https://github.com/Spatulox/MuteAds) Web extension to mute tabs when it detect Ads
 
 ## School Project
+> - [Annual Project | TypeScript](https://github.com/Spatulox/PA_CopainQuartier) (3rd Year)
 > - [Annual Project | PHP - HTML/CSS/JS](https://github.com/Spatulox/PA_AuTempsDonne) (2nd Year)
 > - [TombChronicle | UNITY - C#](https://github.com/Spatulox/TombChronicle) Video Game (platformer)
 > - [Secret-Agent | C](https://github.com/Spatulox/Secret-Agent) Video Game
