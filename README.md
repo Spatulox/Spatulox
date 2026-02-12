@@ -60,17 +60,15 @@
 
 # Projects
 ## Personnal Projects
-> - [MyGes Client | GO - Wails](https://github.com/Spatulox/MyGesClient) (Unofficial, in beta)
-> - [reDesignMyges | JS](https://github.com/Spatulox/re-Design-myGes) Browser extension to visually boost myges website
-> - [MyGesApis | Multiple languages](https://github.com/Spatulox/MyGesApis) Collection of file to access MyGes API in differrent languages
-> - [MuteAds](https://github.com/Spatulox/MuteAds) Web extension to mute tabs when it detect Ads
+> - [Discord Interaction Manager | TS](https://github.com/Spatulox/DiscordInteractionManager) Simple npm repo to simply manage and generate all you discord interactions
+> - [Simple Discord Bot | TS](https://github.com/Spatulox/SimpleDiscordBot) Framework based on discordjs to set up a discord bot in under 10 seconds, with many QoL feature
+> - [DEPRECATED] [MyGes Client | GO - Wails](https://github.com/Spatulox/MyGesClient) (Unofficial, in beta) => Broke because the api went down
+> - [reDesignMyges | TS](https://github.com/Spatulox/re-Design-myGes) Browser extension to visually boost myges website
+> - [MuteAds | JS](https://github.com/Spatulox/MuteAds) Web extension to mute tabs when it detect Ads
 
 ## School Project
-> - [Annual Project | TypeScript](https://github.com/Spatulox/PA_CopainQuartier) (3rd Year)
-> - [Annual Project | PHP - HTML/CSS/JS](https://github.com/Spatulox/PA_AuTempsDonne) (2nd Year)
+> - [King & Cie | PY](https://github.com/Spatulox/roi_et_compagnie) PC version of the Board Game with the same name
 > - [TombChronicle | UNITY - C#](https://github.com/Spatulox/TombChronicle) Video Game (platformer)
-> - [Secret-Agent | C](https://github.com/Spatulox/Secret-Agent) Video Game
-> - [Reservation | GO](https://github.com/Spatulox/Projet_GO_Reservation)
 > - [Interpretor | C](https://github.com/Spatulox/InterpreteurC)
 
 ## Personnal Librairies
