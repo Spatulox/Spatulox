@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **some personnal project**
 
-- 🌱 I’m currently learning at **ESGI, France (3rd years of college)**
+- 🌱 I’m in **4th years of college**
 
 - 👨‍💻 All of my public projects are available at [Spatulox](https://github.com/Spatulox?tab=repositories)
 
