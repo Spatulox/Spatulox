@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Mmmmmh...., I don't know**
 
-- Feel free to join [my discord](https://discord.gg/bAAZebKKYS) to ask any question
+- Feel free to join [my discord](https://discord.gg/bAAZebKKYS) to ask any (normal at least) questions
 
 <hr>
 
