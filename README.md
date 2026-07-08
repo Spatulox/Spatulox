@@ -97,6 +97,6 @@
 
 <div align="center">
 
-[Animated typing](https://github.com/denvercoder1/readme-typing-svg)  • [Profile view counter](https://github.com/antonkomarev/github-profile-views-counter) • [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) • [Skill Icons](https://github.com/tandpfun/skill-icons)
+[Animated typing](https://github.com/denvercoder1/readme-typing-svg)  • [Profile view counter](https://github.com/antonkomarev/github-profile-views-counter) • [GitHub Stats]([https://github.com/anuraghazra/github-readme-stats](http://github-profile-summary-cards.vercel.app)) • [Skill Icons](https://github.com/tandpfun/skill-icons)
 
 </div>
