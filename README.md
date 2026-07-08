@@ -20,10 +20,14 @@
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spatulox&show_icons=true&locale=en&theme=radical&layout=pie" alt="Spatulox" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spatulox&:how_icons=true&theme=radical" alt="Spatulox" /></p>
-<p width="100%" ><img  align="center" src="https://streak-stats.demolab.com/?user=Spatulox&theme=dark" alt="Spatulox"></p>
-
+<center>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spatulox&theme=buefy">
+  <p>
+    <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spatulox&theme=default" alt="Refresh the page...">
+    <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spatulox&theme=default" alt="Refresh the page...">
+    <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spatulox&theme=default" alt="Refresh the page..." />
+  </p>
+</center>
 <hr>
 
 - https://dontasktoask.com/
