@@ -84,7 +84,7 @@
 - AI can be used for research, with some degree of accuracy.
 - AI can be used for debugging, to some degree.
 - AI can be used for quick summaries (code, docs etc...)
-- AI can be used to explore other people’s work (But still meh I guess)
+- AI can be used to explore other people’s work (at least when it comes to code, but it’s still kind of meh, I guess, part of the fun, for personal projects, is to explore people's work).
 - AI can be used to translate text (and correct yourself) for personal use (talking to a friend, writing an email, etc.).
 - When coding (if you use AI that way), you should have detailed documentation, architecture on how to do it and fully understand the code it creates.
 - AI has one of the worst ethical issues in human history for a new technology (but all technologies have had them at some point).
