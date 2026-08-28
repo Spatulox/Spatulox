@@ -73,6 +73,23 @@
 </div>
 <br/>
 
+# My takes on AI :
+- Developers should know 100% of the code they write
+- AI has no right to create or make decisions (the developer does).
+- AI should only be used when you already know how to code.
+- AI should only be there to answer questions when learning to code.
+- AI should follow strict rules in the project (how to develop, test, follow the project structure, etc.).
+- AI can be used to create documentation (or comments in code), which must then be manually reviewed.
+- AI can be used for code completion, but only if the developer understands what it produces.
+- AI can be used for research, with some degree of accuracy.
+- AI can be used for debugging, to some degree.
+- AI can be used for quick summaries (code, docs etc...)
+- AI can be used to explore other people’s work (But still meh I guess)
+- AI can be used to translate text (and correct yourself) for personal use (talking to a friend, writing an email, etc.).
+- When coding (if you use AI that way), you should have detailed documentation, architecture on how to do it and fully understand the code it creates.
+- AI has one of the worst ethical issues in human history for a new technology (but all technologies have had them at some point).
+
+<br/>
 
 # Projects
 ## Personnal Projects
